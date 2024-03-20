@@ -2,7 +2,7 @@
 ## Project context
 This is a study project aimed at training a machine learning model with the usage of ```scikit-learn``` library. The goal of the project was to train the model on the dataset that has been collected within the framework of [immo-eliza-scraping](https://github.com/justalphie/immo-eliza-scraping-immozila) project and analysed during the [Cleaning / EDA](https://github.com/justalphie/immo-eliza-scraping-immozila-Cleaning-EDA) project.
 ## Data
-The input dataset of the model consists of two csv files, one containing observations on apartments, and the other one for houses. The number of observations is around 9000 for each. The data include property id, locality name, postal code, latitude, longitude, property type, property subtype, price, type of sale, number of rooms, living area, kitchen type, fully equipped kitchen, furnished, open fire, terrace, terrace area, garden, garden area, surface of good, number of facades, swimming pool, state of building, main city, province. 
+The input dataset of the model consists of two csv files, one containing observations on apartments, and the other one for houses. The number of observations is around 9000 for each. The data include property id, locality name, postal code, latitude, longitude, property type, property subtype, type of sale, number of rooms, living area, kitchen type, fully equipped kitchen, furnished, open fire, terrace, terrace area, garden, garden area, surface of good, number of facades, swimming pool, state of building, main city, province. 
 ## Model details
 A number of models have been tested for the project. These include: 
 

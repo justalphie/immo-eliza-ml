@@ -1,5 +1,9 @@
 # The immo-eliza-ml machine learning project
+
 ## Project description
+
+<img align="right" height="200" src="https://assets.everspringpartners.com/dims4/default/5c1df5b/2147483647/strip/true/crop/1400x800+0+0/resize/1600x914!/format/webp/quality/90/?url=http%3A%2F%2Feverspring-brightspot.s3.us-east-1.amazonaws.com%2Ffe%2F06%2Ff23661be455e97d009c6ae418995%2Freal-estate-finance.jpg" />
+
 Real estate business needs fast and efficient tools to take advantageous decisions. Automatic price estimator is a handy tool that can boost the work productivity of real estate projects and navigate the clients in the sea of real estate offers. 
 
 The immo-eliza-ml program is an example of such a tool. With the help of such features as location and living area of the apartment of the house it can rapidly predict the price of the property. 
